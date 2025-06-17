@@ -11,7 +11,6 @@ The Student Management System is a simple Java application that helps manage stu
 
 #OUTPUT
 
-https://drive.google.com/drive/my-drive
 
 
 
